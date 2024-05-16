@@ -1,1 +1,1 @@
-# MNIST_Classification_Project
+Developed a CNN model to predict handwritten digits using the MNIST dataset, which consists of 70,000 28x28 grayscale images of digits 0-9, achieving an accuracy of 99.41%. Applied normalization and reshaping techniques for data preprocessing. Designed a robust architecture with convolutional layers, ReLU activation, max-pooling, batch normalization, and dropout to enhance feature capture and prevent overfitting. Used categorical cross-entropy loss and Adam optimizer for efficient training
